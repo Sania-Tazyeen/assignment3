@@ -1,0 +1,53 @@
+.One
+{
+	width:30%;
+	float: left;
+	margin-left:2%;
+	padding:8px;
+}
+.Two
+{
+	width:30%;
+	float:left;
+	margin-left:2%;
+	padding:8px;
+}
+.Three
+{
+
+	width:30%;
+	float: left;
+	margin-left:2%;
+	padding:8px;
+
+}
+.Four{
+	width: 25%;
+	float: left;
+	padding: 8px;
+	
+}
+.Five{
+	width: 25%;
+	float: left;
+	padding: 8px;
+
+}
+.Six{
+	width: 25%;
+	float: left;
+	padding: 8px;
+}
+
+.Seven{
+	width: 40%;
+	margin-left:4%;
+	float: left;
+	padding:6px;
+}
+.Eight{
+	width: 40%;
+	margin:10px;
+	padding:2px;
+	float:left;
+}
